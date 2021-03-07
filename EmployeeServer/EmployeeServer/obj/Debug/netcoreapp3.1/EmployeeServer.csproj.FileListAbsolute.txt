@@ -71,3 +71,4 @@ C:\Users\Administrator\Documents\Codigo\Asp core\EmployeeServer\EmployeeServer\o
 C:\Users\Administrator\Documents\Codigo\Asp core\EmployeeServer\EmployeeServer\obj\Debug\netcoreapp3.1\EmployeeServer.dll
 C:\Users\Administrator\Documents\Codigo\Asp core\EmployeeServer\EmployeeServer\obj\Debug\netcoreapp3.1\EmployeeServer.pdb
 C:\Users\Administrator\Documents\Codigo\Asp core\EmployeeServer\EmployeeServer\obj\Debug\netcoreapp3.1\EmployeeServer.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Codigo\Asp core\EmployeeServer\EmployeeServer\bin\Debug\netcoreapp3.1\web.config
